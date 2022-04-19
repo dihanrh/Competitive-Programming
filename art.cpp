@@ -1,0 +1,14 @@
+/*
+
+DDDDDDD         IIII    HHHH      HHHH          AAA          NNNNNNN      NNNN
+DDDDDDDDDD      IIII    HHHH      HHHH         AAAAA         NNNNNNN      NNNN
+DDD    DDDD     IIII    HHHHHHHHHHHHHH        AA   AA        NNNN  NNNN   NNNN
+DDD    DDDD     IIII    HHHHHHHHHHHHHH      AAAAAAAAAAA      NNNN  NNNN   NNNN
+DDDDDDDDDD      IIII    HHHH      HHHH     AAAAAAAAAAAAA     NNNN     NNNNNNNN
+DDDDDDDD        IIII    HHHH      HHHH    AAAA       AAAA    NNNN       NNNNNN
+
+
+
+
+
+*/
