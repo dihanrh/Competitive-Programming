@@ -14,9 +14,8 @@ int main ()
              {
                   string s ; 
                   cin >> s ; 
-                  bool f = false ;
-                  bool ff = false ;
-                  int ca = 1 , cb = 0  ;
+                 
+                  int ca = 1  ;
 
                   for ( int i = 1 ; i < s.size() ; i ++)
                     {
