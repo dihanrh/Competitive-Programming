@@ -24,10 +24,6 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-#ifndef ONLINE_JUDGE
-    freopen("inputVS.txt", "r", stdin);
-    freopen("outputVS.txt", "w", stdout);
-#endif
 
     int a, b;
     cin >> a >> b;

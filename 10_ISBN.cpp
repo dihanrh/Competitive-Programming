@@ -30,6 +30,5 @@ int main()
     cout << mp << endl ;
     cout << "Check Digit : " << check_digit << "\n";
     cout << "Number " << n <<check_digit <<  "\n";
-    
     return 0;
 }
