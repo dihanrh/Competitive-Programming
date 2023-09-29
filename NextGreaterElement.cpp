@@ -52,9 +52,11 @@ void solve ()
 				while(!noNextGrater.empty() and a[i] > a[noNextGrater.top()] )
 				{
 					result[noNextGrater.top()] = a[i];
+					
 					noNextGrater.pop();
 				}
 				noNextGrater.push(i);
+				
 			}
 			
 			for(int i = 0; i < n; i++)
